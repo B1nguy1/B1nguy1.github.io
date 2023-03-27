@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Funker det?
+<iframe src="viz2.html" width="130%" height="600" class="my-iframe"></iframe>
