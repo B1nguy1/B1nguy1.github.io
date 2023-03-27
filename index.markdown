@@ -5,7 +5,9 @@
 layout: home
 ---
 
-# Is San Francisco a safe city to visit?
+# An analysis of robbery and theft crimes in San Francisco 2010-2017
+
+## Is San Francisco a safe city to visit?
 
 ### Introduction
 
@@ -13,7 +15,7 @@ This assignment will also look at and analyze the dataset _Police Department Inc
 
 ### Background
 
-San Francisco is one of the destination in the US that is popular for tourisms. The city offers many attractions and is known for its diverse culture. Golden Gate Bridge as you might heard about or Alcatraz Island is one of the reason to why one should visit San Francisco. Unfortunately, like other cities in the US, some tourisms might wonder if San Francisco is a safe city. As a tourist, one wants to feel safe when walking in the streets. For that reason, I want to use the collected data of reported crimes of San Francisco to find out if San Francisco is a safe city to visit. Crime types that are common against tourists might be property robbery and larceny/theft.
+San Francisco is one of the destination in the US that is popular among tourisms. The city offers many attractions and is known for its diverse culture. Golden Gate Bridge as you might heard about or Alcatraz Island is one of the reason to why one should visit San Francisco. Unfortunately, like other cities in the US, some tourisms might wonder if San Francisco is a safe city. As a tourist, one wants to feel safe when walking in the streets. For that reason, I want to use the collected data of reported crimes of San Francisco to find out if San Francisco is a safe city to visit. Crime types that are common against tourists might be property robbery and larceny/theft.
 
 ### Analysis of SF Data
 
@@ -35,13 +37,13 @@ The second visualization is a map of San Francisco that shows robbery crimes of 
 **Plot 2:** _Map showing occurences of robbery crimes in different districts in SF 2013-2014_
 <br>
 
-From the visualization, there is clear that districts _Mission_ and _Southern_ are those with high numbers of robberies. For tourists, there is therefore best to be avoid to walk around there, especially at night. As those districts are not popular by tourists according to an article about _Best San Francisco Districts to Visit: 10 Most Popular_, tourists can be sure that there is low risk to face robbery crimes when they are in San Francisco.
+From the visualization, there is clear that districts _Mission_ and _Southern_ are those with high numbers of robberies. For tourists, there is therefore best to be avoid to walk around there, especially at night. As those districts are not popular among tourists according to an article about _Best San Francisco Districts to Visit: 10 Most Popular_, tourists can be sure that there is low risk to face robbery crimes when they are in San Francisco.
 
 <br>
 
 The third and final visualization, is an interactive visualization of a bar chart showing robbery and theft crime rates monthly between 2013 and 2014. To see the crime rate of different crime categories, one can select or remove crime categories from the legend.
 
-<iframe src="viz3.html" width="100%" height="450" class="iframe-2"></iframe>
+<iframe src="viz3.html" width="100%" height="480" class="iframe-2"></iframe>
 
 **Plot 3:** _Interactive visualization of robbery and theft crime rates_
 
