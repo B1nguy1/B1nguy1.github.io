@@ -5,4 +5,8 @@
 layout: home
 ---
 
-<iframe src="viz2.html" width="130%" height="600" class="my-iframe"></iframe>
+<iframe src="viz2.html" width="100%" height="600" class="iframe-1"></iframe>
+
+<br>
+
+<iframe src="viz3.html" width="100%" height="600" class="iframe-2"></iframe>

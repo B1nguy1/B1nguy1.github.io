@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bokeh Plot</title>
+    <style>
+      html, body {
+        box-sizing: border-box;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.1.0.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div id="c6d47292-db19-4fe8-88a7-3792b74a73b3" data-root-id="p12875" style="display: contents;"></div>
+  
+    <script type="application/json" id="p13274">
+      {"6283bc11-8d12-40c1-9765-a905e5ae0219":{"version":"3.1.0","title":"Bokeh Application","defs":[],"roots":[{"type":"object","name":"Figure","id":"p12875","attributes":{"width":1000,"height":350,"x_range":{"type":"object","name":"FactorRange","id":"p12874","attributes":{"factors":["1","2","3","4","5","6","7","8","9","10","11","12"]}},"y_range":{"type":"object","name":"DataRange1d","id":"p12877"},"x_scale":{"type":"object","name":"CategoricalScale","id":"p12887"},"y_scale":{"type":"object","name":"LinearScale","id":"p12889"},"title":{"type":"object","name":"Title","id":"p12880"},"renderers":[{"type":"object","name":"GlyphRenderer","id":"p12925","attributes":{"data_source":{"type":"object","name":"ColumnDataSource","id":"p12871","attributes":{"selected":{"type":"object","name":"Selection","id":"p12872","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"p12873"},"data":{"type":"map","entries":[["index",{"type":"ndarray","array":{"type":"bytes","data":"AQAAAAIAAAADAAAABAAAAAUAAAAGAAAABwAAAAgAAAAJAAAACgAAAAsAAAAMAAAA"},"shape":[12],"dtype":"int32","order":"little"}],["LARCENY/THEFT",{"type":"ndarray","array":{"type":"bytes","data":"zqfzSn4wtD/hMwH/9/SxP36AN5fDPbQ/M11mpfVatD+ao0NVWAazPzDq5Tj0y7I/nLYKL9Nltj/Xz8PNHYy4PxAHZ1VSpLc/BN/99UsfuD+G1w/qhHe2P8h0ALlvQrY/"},"shape":[12],"dtype":"float64","order":"little"}],["ROBBERY",{"type":"ndarray","array":{"type":"bytes","data":"FQb7po6itj+cCyWzhPCzP/9dys5WLbI/ZMV15c/4sj8mhB+JePq1PwSI1sSkSrc/UQPmoJP7tz+PogbMQSe3P7vDAhUG+7Y/9Amy4rrytz8P3O6wQIWxPyNvGY7Ra7M/"},"shape":[12],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"p12926","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p12927"}}},"glyph":{"type":"object","name":"VBar","id":"p12922","attributes":{"x":{"type":"field","field":"index"},"top":{"type":"field","field":"ROBBERY"},"line_color":{"type":"value","value":"violet"},"fill_color":{"type":"value","value":"violet"},"hatch_color":{"type":"value","value":"violet"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p12923","attributes":{"x":{"type":"field","field":"index"},"top":{"type":"field","field":"ROBBERY"},"line_color":{"type":"value","value":"violet"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"violet"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"violet"},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p12924","attributes":{"x":{"type":"field","field":"index"},"top":{"type":"field","field":"ROBBERY"},"line_color":{"type":"value","value":"violet"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"violet"},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"value","value":"violet"},"hatch_alpha":{"type":"value","value":0.2}}},"muted":true}},{"type":"object","name":"GlyphRenderer","id":"p12936","attributes":{"data_source":{"id":"p12871"},"view":{"type":"object","name":"CDSView","id":"p12937","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p12938"}}},"glyph":{"type":"object","name":"VBar","id":"p12933","attributes":{"x":{"type":"field","field":"index"},"top":{"type":"field","field":"LARCENY/THEFT"},"line_color":{"type":"value","value":"green"},"fill_color":{"type":"value","value":"green"},"hatch_color":{"type":"value","value":"green"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p12934","attributes":{"x":{"type":"field","field":"index"},"top":{"type":"field","field":"LARCENY/THEFT"},"line_color":{"type":"value","value":"green"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"green"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"green"},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p12935","attributes":{"x":{"type":"field","field":"index"},"top":{"type":"field","field":"LARCENY/THEFT"},"line_color":{"type":"value","value":"green"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"green"},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"value","value":"green"},"hatch_alpha":{"type":"value","value":0.2}}},"muted":true}}],"toolbar":{"type":"object","name":"Toolbar","id":"p12881","attributes":{"tools":[{"type":"object","name":"PanTool","id":"p12904"},{"type":"object","name":"WheelZoomTool","id":"p12905"},{"type":"object","name":"BoxZoomTool","id":"p12906","attributes":{"overlay":{"type":"object","name":"BoxAnnotation","id":"p12907","attributes":{"syncable":false,"level":"overlay","visible":false,"left_units":"canvas","right_units":"canvas","bottom_units":"canvas","top_units":"canvas","line_color":"black","line_alpha":1.0,"line_width":2,"line_dash":[4,4],"fill_color":"lightgrey","fill_alpha":0.5}}}},{"type":"object","name":"SaveTool","id":"p12908"},{"type":"object","name":"ResetTool","id":"p12909"},{"type":"object","name":"HelpTool","id":"p12910"}]}},"left":[{"type":"object","name":"LinearAxis","id":"p12897","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p12900","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p12899"},"major_label_policy":{"type":"object","name":"AllLabels","id":"p12898"}}}],"below":[{"type":"object","name":"CategoricalAxis","id":"p12891","attributes":{"ticker":{"type":"object","name":"CategoricalTicker","id":"p12894"},"formatter":{"type":"object","name":"CategoricalTickFormatter","id":"p12893"},"major_label_policy":{"type":"object","name":"AllLabels","id":"p12892"}}}],"center":[{"type":"object","name":"Grid","id":"p12896","attributes":{"axis":{"id":"p12891"}}},{"type":"object","name":"Grid","id":"p12903","attributes":{"dimension":1,"axis":{"id":"p12897"}}},{"type":"object","name":"Legend","id":"p12928","attributes":{"click_policy":"mute","items":[{"type":"object","name":"LegendItem","id":"p12929","attributes":{"label":{"type":"value","value":"ROBBERY"},"renderers":[{"id":"p12925"}]}},{"type":"object","name":"LegendItem","id":"p12939","attributes":{"label":{"type":"value","value":"LARCENY/THEFT"},"renderers":[{"id":"p12936"}]}}]}}]}}],"callbacks":{"type":"map"}}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('p13274').textContent;
+              const render_items = [{"docid":"6283bc11-8d12-40c1-9765-a905e5ae0219","roots":{"p12875":"c6d47292-db19-4fe8-88a7-3792b74a73b3"},"root_ids":["p12875"]}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>
