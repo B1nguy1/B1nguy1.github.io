@@ -43,7 +43,7 @@ From the visualization, there is clear that districts _Mission_ and _Southern_ a
 
 The third and final visualization, is an interactive visualization of a bar chart showing robbery and theft crime rates monthly between 2013 and 2014. To see the crime rate of different crime categories, one can select or remove crime categories from the legend.
 
-<iframe src="viz3.html" width="100%" height="480" class="iframe-2"></iframe>
+<iframe src="viz3.html" width="100%" height="445" class="iframe-2"></iframe>
 
 **Plot 3:** _Interactive visualization of robbery and theft crime rates_
 
