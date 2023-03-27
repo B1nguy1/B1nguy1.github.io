@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Assignment 2 in 02806
+# Where should one be located in San Francisco?
 
 ### Introduction
 
