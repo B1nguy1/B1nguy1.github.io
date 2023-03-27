@@ -53,5 +53,5 @@ In this analysis of San Francisco dataset now, we have explored and seen robbery
 
 ### References
 
-https://travel.usnews.com/San_Francisco_CA/When_To_Visit/
-https://www.sftourismtips.com/san-francisco-districts.html
+- https://travel.usnews.com/San_Francisco_CA/When_To_Visit/
+- https://www.sftourismtips.com/san-francisco-districts.html
