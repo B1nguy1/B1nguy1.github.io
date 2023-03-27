@@ -5,6 +5,8 @@
 layout: home
 ---
 
+# Assignment 2 in 02806
+
 ### Introduction
 
 This assignment will also look at and analyze the dataset _Police Department Incident Reports: Historical 2003 to May 2018_ provided by DataSF. The Data we will look into will be limited to 2010-2017. The dataset provided contains reported crimes in the city and the county of **San Francisco**. In the dataset, we can find attributes such as location, date and type of crime. This allows us to analyze and have a good overview of crime statistics of San Francisco.
