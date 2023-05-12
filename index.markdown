@@ -46,7 +46,7 @@ p{
   <p>
    Among all calls that the dispatch centre has received between the years 2016 and 2022, calls for the SUSPICIOUS PERSON were 4th most common calls: 
   </p>
-  <img src="Most common 911 calls.png" alt="Most common 911 calls" width="100%" height="550">
+  <img src="visualizations/911_calls.png" alt="Most common 911 calls" width="100%" height="550">
     <h2>Heatmap?</h2>
     <embed type="text/html" src="visualizations/my_map.html" width="100%" height="550">
     <br><br>
