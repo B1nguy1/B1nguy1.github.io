@@ -37,7 +37,7 @@ p{
    </p>
    
    <p>
-   In this article, we will analyse the 911 calls originating from residents or visitors in San Franciso. Utilizing the San Francisco open source public safety data we will investigate several variables in the data. The purpose of this article is to demonstrate more details behind the dispatched calls and police response, as well as allow the residents to analyse the situation per location. 
+   In this article, we will analyse the 911 calls originating from residents or visitors in San Francisco. Utilizing the San Francisco open source public safety data we will investigate several variables in the data. The purpose of this article is to demonstrate more details behind the dispatched calls and police response, as well as allow the residents to analyse the situation per location. 
    </p>
 
    <p>
@@ -53,7 +53,7 @@ p{
   <p>
     The developments of these calls were also investigated. When the call is received, a dispatcher defines the call type such as “Suspicious person”, however the at the end of the incident a more accurate and final description is prescribed. The graphs above demonstrate the by far most of the call keep their initial description, hower other common categories are “Homeless complaints”, spotting of “Mentally disturbed” or “Trespasser”.
   </p>
-    <h2>Heatmap?</h2>
+    <h2>Case distribution heatmap</h2>
     <embed type="text/html" src="visualizations/my_map.html" width="100%" height="550">
     <br><br>
     <p>
