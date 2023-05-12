@@ -54,7 +54,7 @@ p{
     The developments of these calls were also investigated. When the call is received, a dispatcher defines the call type such as “Suspicious person”, however the at the end of the incident a more accurate and final description is prescribed. The graphs above demonstrate the by far most of the call keep their initial description, hower other common categories are “Homeless complaints”, spotting of “Mentally disturbed” or “Trespasser”.
   </p>
     <h2>Heatmap?</h2>
-    <embed type="text/html" src="visualizations/my_map.html" width="100%" height="550">
+    <embed type="text/html" src="visualizations/my_map.html" width="100%" height="1000">
     <br><br>
     <p>
     The heatmap clearly shows that the TENDERLOIN district receives the highest number of reports regarding SUSPICIOUS PERSON incidents.It can be attributed to a variety of factors, including a high population density, a significant number of homeless individuals, and a prevalence of drug use and other criminal activity. These factors contribute to a sense of insecurity and discomfort among residents and visitors to the area, resulting in an increased number of reports of suspicious behavior.At the same time, for other areas, if we zoom in on some of the locations where incidents occur frequently, we can see that the reports are concentrated in certain public places, typically parks.
