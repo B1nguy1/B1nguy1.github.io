@@ -8,6 +8,7 @@ date: 2023-05-11
 
 <html>
 <head>
+<title>Just a test</title>
 <style>
 body{
     font-family:Arial,sans-serif
@@ -28,11 +29,10 @@ footer{
     <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     </p>
-    <h2> 
-        Introduction
-     </h2>
+    <h2> Counts by years in different district </h2>
+    <embeded type="text/html" src="">
     <p>
-     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    In the above map, it can be observed that in areas where the base rate of SUSPICIOUS PERSON incidents is relatively low, such as PARK, RICHMOND, INGLESIDE, TARAVAL, and BAYVIEW, the number of incidents has been decreasing over the years. This is in line with the actual trend, indicating that the security conditions have been improving year by year, possibly due to the continuous development of security technology by the police department and the overall improvement of public awareness.In areas where there are a higher number of incidents, such as the TENDERLOIN and MISSION districts, we also observe a decreasing trend in the number of incidents over the years. However, what's particularly interesting is that in these areas, there was a significant decrease in incidents in 2017, followed by a rebound in 2018. There were several major events that may have influenced the reporting of SUSPICIOUS PERSON incidents in San Francisco in 2017 and 2018. One significant event was the legalization of recreational marijuana in California, which took effect on January 1, 2018. This may have resulted in a decrease in the reporting of SUSPICIOUS PERSON incidents related to drug use or drug dealing, as these activities were no longer illegal in the state. Another major event was the rise of the #MeToo movement in late 2017, which brought attention to sexual harassment and assault. This increased awareness may have led to more people reporting incidents of suspicious behavior, particularly if they felt uncomfortable or threatened. In addition, there were several high-profile incidents of violent crime in San Francisco during this time period, including a shooting in a popular tourist area in late 2017 and a stabbing on a commuter train in 2018. These incidents may have led to increased concern about public safety and a corresponding increase in the reporting of suspicious behavior.
     </p>
     <embed type="text/html" src="visualizations/viz2.html" width="100%" height="445">
     <h2>References</h2>
