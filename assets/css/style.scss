@@ -1,9 +1,10 @@
-@import "{{ site.theme }}";
+---
+---
 
-.test {
-    color:"#fff";
-    text-align:center;
-    background-color: lightblue;
-    background-image: linear-gradient(120deg,#c2185b,#4b148c)
-
+@import "jekyll-theme-minimal";
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #4a148c;
+    background-image: linear-gradient(120deg, #c2185b, #4a148c);
 }
