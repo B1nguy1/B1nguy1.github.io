@@ -25,6 +25,9 @@ footer{
 p{
     line-height:24px;
 }
+.footer-container:{
+    margin: 0 0 10px 0;
+}
 </style>
 </head>
 <body style="background-color:white;">
@@ -65,11 +68,12 @@ p{
         <li>Janert, P. K. (2010). Data Analysis with Open Source Tools.<a href="http://cds.cern.ch/record/1438426/files/9780596802356_TOC.pdf">
         http://cds.cern.ch/record/1438426/files/9780596802356_TOC.pdf</a></li>
     </ul>
+    <div class="footer-container">
     <footer>
         <p style="text-align: center">Person 1, Person 2, Person 3</p>
         <p> <a href="https://github.com/B1nguy1/">Link to explainer notebook </a> </p>
     </footer>
-
+    </div>
 </div>
 </body>
 </html>
