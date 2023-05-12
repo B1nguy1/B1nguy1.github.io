@@ -37,8 +37,8 @@ footer{
     <embed type="text/html" src="visualizations/viz2.html" width="100%" height="445">
     <h2>References</h2>
     <ul>
-        <li>Chabria, A. (2022, December 29). Overdose prevention reaches a crossroad in San Francisco - Los Angeles Times. Los Angeles Times. https://www.latimes.com/california/story/2022-12-28/column-san-francisco-closed-its-safe-drug-consumption-site-pushing-california-toward-more-death</li>
-        <li>Janert, P. K. (2010). Data Analysis with Open Source Tools. http://cds.cern.ch/record/1438426/files/9780596802356_TOC.pdf</li> 
+        <li>Chabria, A. (2022, December 29). Overdose prevention reaches a crossroad in San Francisco - Los Angeles Times. Los Angeles Times. <a href="https://www.latimes.com/california/story/2022-12-28/column-san-francisco-closed-its-safe-drug-consumption-site-pushing-california-toward-more-death"></a></li>
+        <li>Janert, P. K. (2010). Data Analysis with Open Source Tools.<a href="http://cds.cern.ch/record/1438426/files/9780596802356_TOC.pdf"> </a></li> 
     </ul>
     <footer>
         <p style="text-align: center">Person 1, Person 2, Person 3</p>
