@@ -48,7 +48,7 @@ p{
   </p>
   <img src="visualizations/911_calls.png" alt="Most common 911 calls" width="100%" height="550">
   <h2> Development of 911 cases for suspicious person </h2>
-  <img src="visualizations/combined_graph.jpg" alt="Call types combined" width="100%" height="1000">
+  <img src="visualizations/combined_graph.jpg" alt="Call types combined" width="100%" height="1250">
   <br><br>
   <p>
     The developments of these calls were also investigated. When the call is received, a dispatcher defines the call type such as “Suspicious person”, however the at the end of the incident a more accurate and final description is prescribed. The graphs above demonstrate the by far most of the call keep their initial description, hower other common categories are “Homeless complaints”, spotting of “Mentally disturbed” or “Trespasser”.
