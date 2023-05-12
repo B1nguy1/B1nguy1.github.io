@@ -92,7 +92,7 @@ p{
     <p>
     In conclusion, we trust that this article prompts readers to contemplate the handling and progression of 911 calls in San Francisco, as well as in their own region. It is crucial to sustain and enhance transparency regarding these issues, as this can motivate the public to take an active role and avoid being indifferent when encountering suspicious behaviours.
     </p>
-    <br><br>
+    <br>
     <h2>References</h2>
     <ul>
         <li>Chabria, A. (2022, December 29). Overdose prevention reaches a crossroad in San Francisco - Los Angeles Times. Los Angeles Times. <a href="https://www.latimes.com/california/story/2022-12-28/column-san-francisco-closed-its-safe-drug-consumption-site-pushing-california-toward-more-death">
