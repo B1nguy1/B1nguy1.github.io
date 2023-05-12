@@ -8,7 +8,7 @@ date: 2023-05-11
 
 <html>
 <head>
-<title>Just a test</title>
+
 <style>
 body{
     font-family:Arial,sans-serif
@@ -49,6 +49,5 @@ footer{
       </footer>
 
 </div>
-
 </body>
 </html>
