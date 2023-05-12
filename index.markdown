@@ -83,7 +83,7 @@ p{
     <p>
     When the call is received at the 911 center the dispatcher assigns the priority to the case. Once the situation is solved, the final priority is assigned that represents the urgency of the case more accurately. The most common priorities are A, B and C, the A being the most urgent overall and C the least urgent of the three types. In the graph below you can observe what fraction of all cases are assigned A, B or C priorities per district in San Francisco. It is evident that the most common priority for a SUSPICIOUS PERSON is C, while it is very rare that A priority is given. The difference per district can also be observed, as C priority is given for over 90% of cases in TENDERLOIN, while TRAVAL has a relatively close amount of C (just over 60%) and B (approximately 40%) priorities assigned to the cases. 
     </p>
-    <embed type="text/html" src="visualizations/priorities_graph.html" width="100%" height="550">
+    <embed type="text/html" src="visualizations/priorities_call.html" width="100%" height="550">
     <br><br>
     <p>
     It is important to mention that when comparing initially assigned and final priorities there is a decrease in C priorities and increas in both A and B priorities in each district. It can be assumed that dispatchers tend to underestimate the severity of the cases in the beginning. 
