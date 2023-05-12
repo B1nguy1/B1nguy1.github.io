@@ -3,20 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-date: 2023-03-27
+date: 2023-05-11
 ---
 
-# An analysis of robbery and theft crimes in San Francisco 2010-2017
+<div>
+    <h1> SAN FRANCISCO </h1>
+    <p>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </p>
 
-## Is San Francisco a safe city to visit?
-
+</div>
 ### Introduction
-
-This assignment will also look at and analyze the dataset _Police Department Incident Reports: Historical 2003 to May 2018_ provided by DataSF. The Data we will look into will be limited to 2010-2017. The dataset provided contains reported crimes in the city and the county of **San Francisco**. In the dataset, we can find attributes such as location, date and type of crime. This allows us to analyze and have a good overview of crime statistics of San Francisco. Between 2010 and 2017 there were reported 1129383 crimes. The dataset also contains 37 different crime types.
-
-### Background
-
-San Francisco is one of the destination in the US that is popular among tourisms. The city offers many attractions and is known for its diverse culture. Golden Gate Bridge as you might heard about or Alcatraz Island is one of the reason to why one should visit San Francisco. Unfortunately, like other cities in the US, some tourisms might wonder if San Francisco is a safe city. As a tourist, one wants to feel safe when walking in the streets. For that reason, I want to use the collected data of reported crimes of San Francisco to find out if San Francisco is a safe city to visit. Crime types that are common against tourists might be property robbery and larceny/theft.
 
 ### Analysis of SF Data
 
