@@ -30,7 +30,7 @@ p{
 <body style="background-color:white;">
 
 <div class="container">
-    <h1 style="color:black;text-align:center;margin-top:0;">A comprehensive analysis of reported cases tagged as "Suspicious Person" in San Francisco</h1>
+    <h1 style="color:black;text-align:center;margin-top:0px;">A comprehensive analysis of reported cases tagged as "Suspicious Person" in San Francisco</h1>
     <p style="color:grey;text-align:center">May 11, 2023</p>
     <p>
     San Francisco is a highly sought-after destination for both tourists and residents due to its many attractions and diverse culture. However, like other cities in the US, the city is not exempt from undesirable incidents. Because of public awareness, many accidents do not reach a tragic end or are reported to the authorities. The fastest way for the general public to connect with law enforcement units is through the 911 line. 
@@ -42,15 +42,15 @@ p{
 
    <p>
    We will focus on reported cases that were tagged as “Suspicious person”. Why? Because our team has found the term rather arbitrary. Hopefully, analysis can shed some light on the details of the importance and development of such cases.
-  </p>  
-  
+  </p>
+
     <h2>Heatmap?</h2>
     <embed type="text/html" src="visualizations/my_map.html" width="100%" height="550">
     <br><br>
     <p>
     The heatmap clearly shows that the TENDERLOIN district receives the highest number of reports regarding SUSPICIOUS PERSON incidents.It can be attributed to a variety of factors, including a high population density, a significant number of homeless individuals, and a prevalence of drug use and other criminal activity. These factors contribute to a sense of insecurity and discomfort among residents and visitors to the area, resulting in an increased number of reports of suspicious behavior.At the same time, for other areas, if we zoom in on some of the locations where incidents occur frequently, we can see that the reports are concentrated in certain public places, typically parks.
     The obvious hotspot can be identified next to the United Nations Plaza (the inicidents are assigned to the closest intersection). There were patterns observed of the common drug use in the United Nations Plaza, that might have been reported by other people that are enjoying the perks of the area (Chabria, 2022).
-    However, it is also possible that the report originated from the Federall Office staff located in the UN building nearby. 
+    However, it is also possible that the report originated from the Federall Office staff located in the UN building nearby.
     </p>
     <h2> Counts by years in different district </h2>
     <embed type="text/html" src="visualizations/count_plot.html" width="100%" height="550">
@@ -79,6 +79,7 @@ p{
         <p> <a href="https://github.com/B1nguy1/">Link to explainer notebook </a> </p>
     </footer>
     </div>
+
 </div>
 </body>
 </html>
