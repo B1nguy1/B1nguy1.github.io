@@ -40,9 +40,10 @@ p{
    In this article, we will analyse the 911 calls originating from residents or visitors in San Franciso. Utilizing the San Francisco open source public safety data we will investigate several variables in the data. The purpose of this article is to demonstrate more details behind the dispatched calls and police response, as well as allow the residents to analyse the situation per location. 
    </p>
 
-   </p>
+   <p>
    We will focus on reported cases that were tagged as “Suspicious person”. Why? Because our team has found the term rather arbitrary. Hopefully, analysis can shed some light on the details of the importance and development of such cases.
   </p>  
+  
     <h2>Heatmap?</h2>
     <embed type="text/html" src="visualizations/my_map.html" width="100%" height="550">
     <br><br>
