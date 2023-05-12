@@ -132,7 +132,7 @@ p{
         <button id="explainerButton">NAVIGATE TO EXPLAINER NOTEBOOK</button>
         <script type="text/javascript">
             document.getElementById("explainerButton").onclick = function (){
-                location.href = "https://github.com/B1nguy1/B1nguy1.github.io"
+                location.href = "https://github.com/B1nguy1/social-data-explainer/blob/master/explainer_notebook_social_viz.ipynb";
             };
         </script>
     </footer>
