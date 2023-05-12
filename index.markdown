@@ -43,7 +43,10 @@ p{
    <p>
    We will focus on reported cases that were tagged as “Suspicious person”. Why? Because our team has found the term rather arbitrary. Hopefully, analysis can shed some light on the details of the importance and development of such cases.
   </p>
-
+  <p>
+   Among all calls that the dispatch centre has received between the years 2016 and 2022, calls for the SUSPICIOUS PERSON were 4th most common calls: 
+  </p>
+  <img src="Most common 911 calls.png" alt="Most common 911 calls" width="100%" height="550">
     <h2>Heatmap?</h2>
     <embed type="text/html" src="visualizations/my_map.html" width="100%" height="550">
     <br><br>
