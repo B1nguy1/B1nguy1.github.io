@@ -127,8 +127,6 @@ p{
     <br>
     <br>
     <br>
-    <br>
-    <br>
     <div class="footer-container">
     <footer>
         <button id="explainerButton">NAVIGATE TO EXPLAINER NOTEBOOK</button>
