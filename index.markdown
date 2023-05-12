@@ -25,20 +25,24 @@ footer{
 p{
     line-height:24px;
 }
-.footer-container:{
-    margin: 0 0 10px 0;
-}
 </style>
 </head>
 <body style="background-color:white;">
 
 <div class="container">
-    <h1 style="color:black;text-align:center;"> SAN FRANCISCO </h1>
+    <h1 style="color:black;text-align:center;">A comprehensive analysis of reported cases tagged as "Suspicious Person" in San Francisco</h1>
     <p style="color:grey;text-align:center">May 11, 2023</p>
-    <img src="img/SF_background.jpg" alt="SF" style="width:1000px;height:400px;">
     <p>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    </p>
+    San Francisco is a highly sought-after destination for both tourists and residents due to its many attractions and diverse culture. However, like other cities in the US, the city is not exempt from undesirable incidents. Because of public awareness, many accidents do not reach a tragic end or are reported to the authorities. The fastest way for the general public to connect with law enforcement units is through the 911 line. 
+   </p>
+   
+   <p>
+   In this article, we will analyse the 911 calls originating from residents or visitors in San Franciso. Utilizing the San Francisco open source public safety data we will investigate several variables in the data. The purpose of this article is to demonstrate more details behind the dispatched calls and police response, as well as allow the residents to analyse the situation per location. 
+   </p>
+
+   </p>
+   We will focus on reported cases that were tagged as “Suspicious person”. Why? Because our team has found the term rather arbitrary. Hopefully, analysis can shed some light on the details of the importance and development of such cases.
+  </p>  
     <h2>Heatmap?</h2>
     <embed type="text/html" src="visualizations/my_map.html" width="100%" height="550">
     <br><br>
