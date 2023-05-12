@@ -124,6 +124,11 @@ p{
         Serna, J et al. (2017, June 14). Four killed in shooting at San Francisco UPS facility, including gunman.<a href="https://www.latimes.com/local/lanow/la-me-ln-san-francisco-shooting-downtown-20170614-story.html">https://www.latimes.com/local/lanow/la-me-ln-san-francisco-shooting-downtown-20170614-story.html</a>
         </li>
     </ul>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <div class="footer-container">
     <footer>
         <button id="explainerButton">NAVIGATE TO EXPLAINER NOTEBOOK</button>
