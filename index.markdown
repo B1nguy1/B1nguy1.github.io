@@ -16,7 +16,6 @@ footer{
     background-color: white;
     text-align: center;
     padding: 3px;
-    color: white;
 }
 .container:{
     text-align:center,
@@ -25,7 +24,16 @@ footer{
 p{
     line-height:24px;
 }
+#explainerButton{
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  background-color:#ADD8E6;
+
+}
 </style>
+
 </head>
 <body style="background-color:white;">
 
@@ -118,9 +126,7 @@ p{
     </ul>
     <div class="footer-container">
     <footer>
-        <p style="text-align: center">Person 1, Person 2, Person 3</p>
-        <p>Link to explainer notebook </p>
-        <button id="explainerButton">EXPLAINER NOTEBOOK</button>
+        <button id="explainerButton">NAVIGATE TO EXPLAINER NOTEBOOK</button>
         <script type="text/javascript">
             document.getElementById("explainerButton").onclick = function (){
                 location.href = "https://github.com/B1nguy1/B1nguy1.github.io"
