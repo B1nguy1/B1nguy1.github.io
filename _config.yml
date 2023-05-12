@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Assignment 2 in 02806 - Social data analysis and visualization
+title: Final project in 02806
 email: s226695@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,7 +29,7 @@ github_username: b1nguy1
 url: https://b1nguy1.github.io
 
 # Build settings
-remote-theme: pages-themes/modernist@v0.2.0
+remote-theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 # Exclude from processing.
