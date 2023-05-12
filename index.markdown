@@ -98,8 +98,23 @@ p{
         <li>Chabria, A. (2022, December 29). Overdose prevention reaches a crossroad in San Francisco - Los Angeles Times. Los Angeles Times. <a href="https://www.latimes.com/california/story/2022-12-28/column-san-francisco-closed-its-safe-drug-consumption-site-pushing-california-toward-more-death">
         https://www.latimes.com/california/story/2022-12-28/column-san-francisco-closed-its-safe-drug-consumption-site-pushing-california-toward-more-death
         </a></li>
+        <li>
+        Corey, D. (2017, December 26).2017 Year in Review: Here are the top 10 biggest news stories.<a href="https://www.nbcnews.com/news/us-news/2017-year-review-here-are-top-10-biggest-news-stories-n828881">https://www.nbcnews.com/news/us-news/2017-year-review-here-are-top-10-biggest-news-stories-n828881</a>
+        </li>
+        <li>
+        Evans, C. (2017, December 27). California ready to go green with legalization of marijuana in 2018 .<a href="https://www.cbsnews.com/news/california-recreational-marijuana-legalization-in-2018/">https://www.cbsnews.com/news/california-recreational-marijuana-legalization-in-2018/</a>
+        </li>
         <li>Janert, P. K. (2010). Data Analysis with Open Source Tools.<a href="http://cds.cern.ch/record/1438426/files/9780596802356_TOC.pdf">
         http://cds.cern.ch/record/1438426/files/9780596802356_TOC.pdf</a></li>
+        <li>
+        Johnson, L. (2017, March 21). SF’s popular fix-it program about to expand around town .<a href="https://www.sfgate.com/bayarea/article/SF-expands-Fix-It-program-from-five-to-20-11017258.php">https://www.sfgate.com/bayarea/article/SF-expands-Fix-It-program-from-five-to-20-11017258.php</a>
+        </li>
+        <li>
+        Martichuox, A and Corell Barnard (2020, August 1) San Francisco Mayor London Breed announces cuts to police in new city budget. <a href="https://abc7news.com/san-francisco-budget-announcement-defund-sfpd-the-police-london-breed-press-conference/6345069/">https://abc7news.com/san-francisco-budget-announcement-defund-sfpd-the-police-london-breed-press-conference/6345069/</a>
+        </li>
+        <li>
+        Serna, J et al. (2017, June 14). Four killed in shooting at San Francisco UPS facility, including gunman.<a href="https://www.latimes.com/local/lanow/la-me-ln-san-francisco-shooting-downtown-20170614-story.html">https://www.latimes.com/local/lanow/la-me-ln-san-francisco-shooting-downtown-20170614-story.html</a>
+        </li>
     </ul>
     <div class="footer-container">
     <footer>
