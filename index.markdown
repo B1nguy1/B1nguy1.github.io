@@ -10,7 +10,7 @@ date: 2023-05-11
 <head>
 <style>
 body{
-    font-family:Arial,sans-serif
+    font-family:Arial,sans-serif,
 }
 footer{
     background-color: slategrey;
@@ -30,7 +30,7 @@ p{
 <body style="background-color:white;">
 
 <div class="container">
-    <h1 style="color:black;text-align:center;">A comprehensive analysis of reported cases tagged as "Suspicious Person" in San Francisco</h1>
+    <h1 style="color:black;text-align:center;margin-top:0;">A comprehensive analysis of reported cases tagged as "Suspicious Person" in San Francisco</h1>
     <p style="color:grey;text-align:center">May 11, 2023</p>
     <p>
     San Francisco is a highly sought-after destination for both tourists and residents due to its many attractions and diverse culture. However, like other cities in the US, the city is not exempt from undesirable incidents. Because of public awareness, many accidents do not reach a tragic end or are reported to the authorities. The fastest way for the general public to connect with law enforcement units is through the 911 line. 
