@@ -120,7 +120,12 @@ p{
     <footer>
         <p style="text-align: center">Person 1, Person 2, Person 3</p>
         <p>Link to explainer notebook </p>
-        <button onclick="window.location.href = 'www.github.com/B1nguy1/B1nguy1.github.io';">EXPLAINER NOTEBOOK</button>
+        <button id="explainerButton">EXPLAINER NOTEBOOK</button>
+        <script type="text/javascript">
+            document.getElementById("explainerButton").onclick = function (){
+                location.href = "https://github.com/B1nguy1/B1nguy1.github.io"
+            };
+        </script>
     </footer>
     </div>
 
