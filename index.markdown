@@ -22,6 +22,9 @@ footer{
     text-align:center,
     position:relative
 }
+p{
+    line-height:24px;
+}
 </style>
 </head>
 <body style="background-color:white;">
