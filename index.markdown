@@ -12,6 +12,12 @@ date: 2023-05-11
 body{
     font-family:Arial,sans-serif
 }
+footer{
+    background-color: slategrey;
+    text-align: center;
+    padding: 3px;
+    color: white;
+}
 </style>
 </head>
 <body style="background-color:white;">
