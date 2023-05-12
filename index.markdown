@@ -9,10 +9,12 @@ date: 2023-05-11
 <html>
 <head>
 <style>
-
+body{
+    font-family:sans-serif
+}
 </style>
 </head>
-<body style="background-color:#D3D3D3;">
+<body style="background-color:white;">
 
 <div>
     <h1 style="color:black;text-align:center;"> SAN FRANCISCO </h1>
