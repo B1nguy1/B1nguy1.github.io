@@ -6,6 +6,9 @@ layout: home
 date: 2023-05-11
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
 <style>
 .page-header {
     color: #fff;
@@ -14,6 +17,8 @@ date: 2023-05-11
     background-image: linear-gradient(120deg, #c2185b, #4a148c);
 }
 </style>
+</head>
+<body style="background-color:powderblue;">
 
 <div>
     <h1 style="color:black;text-align:center;"> SAN FRANCISCO </h1>
@@ -54,3 +59,6 @@ From the visualization, there is in general low crime rate through winter and sp
 In this analysis of San Francisco dataset now, we have explored and seen robbery and theft as crime types. The analysis shows that there is still high crime rate in San Francisco, especially in crime type _LARCENY/THEFT_. In general, San Francisco is a safe city to visit as a tourist. However, one should always keep in mind when walking in areas. Especially areas where there are many tourists, there is high risk to face again thefts. The collected data by Police Department of San Francisco that has been analyzed and visualized can hopefully make us to better understand where the crimes are most occurred. This will help the police department to do measures to reduce crimes in San Francisco.
 
 ### References
+
+</body>
+</html>
