@@ -13,7 +13,7 @@ body{
     font-family:Arial,sans-serif,
 }
 footer{
-    background-color: slategrey;
+    background-color: white;
     text-align: center;
     padding: 3px;
     color: white;
@@ -119,7 +119,8 @@ p{
     <div class="footer-container">
     <footer>
         <p style="text-align: center">Person 1, Person 2, Person 3</p>
-        <p> <a href="https://github.com/B1nguy1/">Link to explainer notebook </a> </p>
+        <p>Link to explainer notebook </p>
+        <button onclick="window.location.href = 'www.github.com/B1nguy1/B1nguy1.github.io';">EXPLAINER NOTEBOOK</button>
     </footer>
     </div>
 
