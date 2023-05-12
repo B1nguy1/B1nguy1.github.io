@@ -1,0 +1,9 @@
+@import "{{ site.theme }}";
+
+.test {
+    color:"#fff";
+    text-align:center;
+    background-color: lightblue;
+    background-image: linear-gradient(120deg,#c2185b,#4a148c)
+
+}
