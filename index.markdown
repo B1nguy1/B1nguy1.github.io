@@ -112,6 +112,10 @@ p{
         <li>
         Evans, C. (2017, December 27). California ready to go green with legalization of marijuana in 2018 .<a href="https://www.cbsnews.com/news/california-recreational-marijuana-legalization-in-2018/">https://www.cbsnews.com/news/california-recreational-marijuana-legalization-in-2018/</a>
         </li>
+        <li>
+        Gill, L.E and Olga R. Rodriguez (n.d.). Police arrest suspect in Oakland train station stabbing.
+        <a href="https://eu.usatoday.com/story/news/nation/2018/07/24/oakland-train-station-stabbing-police-arrest-suspect/824795002/">https://eu.usatoday.com/story/news/nation/2018/07/24/oakland-train-station-stabbing-police-arrest-suspect/824795002/ </a>
+        </li>
         <li>Janert, P. K. (2010). Data Analysis with Open Source Tools.<a href="http://cds.cern.ch/record/1438426/files/9780596802356_TOC.pdf">
         http://cds.cern.ch/record/1438426/files/9780596802356_TOC.pdf</a></li>
         <li>
