@@ -6,6 +6,15 @@ layout: home
 date: 2023-05-11
 ---
 
+<style>
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #4a148c;
+    background-image: linear-gradient(120deg, #c2185b, #4a148c);
+}
+</style>
+
 <div>
     <h1 style="color:black;text-align:center;"> SAN FRANCISCO </h1>
     <section class="page-header">
