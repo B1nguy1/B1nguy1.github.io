@@ -79,6 +79,19 @@ p{
     <p>
     The average times between the initial call and police arrival at the location per district were discussed above. In addition, it is interesting to investigate the time that it takes police to arrive at the location from the moment the call has been received at the 911 centre for most urgent cases. The time period of two hours is taken into account, as we consider these reports of a higher urgency. From the histograms below it can be observed that police activity is following the typical shape for the task completion times (Janert, 2010). The histograms showcase how often the case was solved within the specific period of time (in minutes), among all the cases that were solved within two hours. It can be observed that most of the cases are solved within 5 to 15 minutes from the moment the call was received. The value is presented in the percentage of cases that took a specific amount of time to complete. For example, in TRAVAL and RICHMOND regions the peak fluctuates around 3-4%, which shows that out of all the cases that were solved within 120 minutes cases that took one of the times between 5 and 10 minutes constitute to approximately 3% to 4%. The histograms for these regions also have a “tail” that is decreasing significantly. It means that fewer cases have taken more time complete. On the other hand, the histogram for the TENDERLOIN region indicates that the peak values only constitute approximately 2% among all cases that were solved within two hours, and the “tail” is decreasing less evidently. It means that in comparison to the aforementioned regions, the time that past between the 911 call and the end of the case was longer for more cases. 
     </p>
+    <h2>Priority for 911 calls about the suspicious person </h2>
+    <p>
+    When the call is received at the 911 center the dispatcher assigns the priority to the case. Once the situation is solved, the final priority is assigned that represents the urgency of the case more accurately. The most common priorities are A, B and C, the A being the most urgent overall and C the least urgent of the three types. In the graph below you can observe what fraction of all cases are assigned A, B or C priorities per district in San Francisco. It is evident that the most common priority for a SUSPICIOUS PERSON is C, while it is very rare that A priority is given. The difference per district can also be observed, as C priority is given for over 90% of cases in TENDERLOIN, while TRAVAL has a relatively close amount of C (just over 60%) and B (approximately 40%) priorities assigned to the cases. 
+    </p>
+    <embed type="text/html" src="visualizations/priorities_graph.html" width="100%" height="550">
+    <br><br>
+    <p>
+    It is important to mention that when comparing initially assigned and final priorities there is a decrease in C priorities and increas in both A and B priorities in each district. It can be assumed that dispatchers tend to underestimate the severity of the cases in the beginning. 
+    </p>
+    <h2>Conclusion </h2>
+    <p>
+    In conclusion, we trust that this article prompts readers to contemplate the handling and progression of 911 calls in San Francisco, as well as in their own region. It is crucial to sustain and enhance transparency regarding these issues, as this can motivate the public to take an active role and avoid being indifferent when encountering suspicious behaviours.
+    </p>
     <br><br>
     <h2>References</h2>
     <ul>
