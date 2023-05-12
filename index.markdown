@@ -19,11 +19,15 @@ footer{
     padding: 3px;
     color: white;
 }
+.container:{
+    text-align:center,
+    position:relative
+}
 </style>
 </head>
 <body style="background-color:white;">
 
-<div class="Test">
+<div class="container">
     <h1 style="color:black;text-align:center;"> SAN FRANCISCO </h1>
     <img src="img/SF_background.jpg" alt="SF" style="width:1000px;height:400px;">
     <p>

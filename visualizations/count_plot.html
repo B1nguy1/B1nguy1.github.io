@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.1.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="12a98249-40ad-4cd7-9985-bd11cb247f52" data-root-id="1835"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="2086">
+          {"6f70b7c6-e47e-4f07-baa5-6aab1013415e":{"defs":[],"roots":{"references":[{"attributes":{},"id":"1849","type":"BasicTicker"},{"attributes":{},"id":"1852","type":"Toolbar"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"field":"x","transform":{"id":"1853"}},"hatch_alpha":{"value":0.1},"line_alpha":{"value":0.1},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"1856","type":"VBar"},{"attributes":{},"id":"1841","type":"CategoricalScale"},{"attributes":{},"id":"1866","type":"AllLabels"},{"attributes":{"fill_color":{"field":"x","transform":{"id":"1853"}},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"1855","type":"VBar"},{"attributes":{"axis_label":"Police Districts and Years","coordinates":null,"formatter":{"id":"1865"},"group":null,"major_label_orientation":1,"major_label_policy":{"id":"1866"},"ticker":{"id":"1846"}},"id":"1845","type":"CategoricalAxis"},{"attributes":{"end":2,"factors":["2016","2017","2018","2019","2020","2021","2022","2023"],"palette":["#1f77b4","#aec7e8","#ff7f0e","#ffbb78","#2ca02c","#98df8a","#d62728","#ff9896"],"start":1},"id":"1853","type":"CategoricalColorMapper"},{"attributes":{"fill_alpha":{"value":0.2},"fill_color":{"field":"x","transform":{"id":"1853"}},"hatch_alpha":{"value":0.2},"line_alpha":{"value":0.2},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"1857","type":"VBar"},{"attributes":{},"id":"1843","type":"LinearScale"},{"attributes":{},"id":"1862","type":"BasicTickFormatter"},{"attributes":{"data":{"counts":[15896,14023,15017,12265,7142,5436,6156,1918,4261,3186,3105,2900,1611,1293,768,223,9452,8839,9104,7954,5481,3498,2866,913,2025,1895,1512,1468,1305,1055,923,296,7810,5362,5860,5450,3481,2801,2681,780,5754,4626,4874,5056,4122,3123,3226,1067,2242,2029,1864,1590,1336,954,836,244,2306,1839,1640,1620,1378,1009,901,252,7809,6407,7692,7054,3776,2741,3419,976,3234,2192,1977,1728,1195,937,782,177],"x":[["TENDERLOIN","2016"],["TENDERLOIN","2017"],["TENDERLOIN","2018"],["TENDERLOIN","2019"],["TENDERLOIN","2020"],["TENDERLOIN","2021"],["TENDERLOIN","2022"],["TENDERLOIN","2023"],["PARK","2016"],["PARK","2017"],["PARK","2018"],["PARK","2019"],["PARK","2020"],["PARK","2021"],["PARK","2022"],["PARK","2023"],["MISSION","2016"],["MISSION","2017"],["MISSION","2018"],["MISSION","2019"],["MISSION","2020"],["MISSION","2021"],["MISSION","2022"],["MISSION","2023"],["RICHMOND","2016"],["RICHMOND","2017"],["RICHMOND","2018"],["RICHMOND","2019"],["RICHMOND","2020"],["RICHMOND","2021"],["RICHMOND","2022"],["RICHMOND","2023"],["CENTRAL","2016"],["CENTRAL","2017"],["CENTRAL","2018"],["CENTRAL","2019"],["CENTRAL","2020"],["CENTRAL","2021"],["CENTRAL","2022"],["CENTRAL","2023"],["NORTHERN","2016"],["NORTHERN","2017"],["NORTHERN","2018"],["NORTHERN","2019"],["NORTHERN","2020"],["NORTHERN","2021"],["NORTHERN","2022"],["NORTHERN","2023"],["INGLESIDE","2016"],["INGLESIDE","2017"],["INGLESIDE","2018"],["INGLESIDE","2019"],["INGLESIDE","2020"],["INGLESIDE","2021"],["INGLESIDE","2022"],["INGLESIDE","2023"],["TARAVAL","2016"],["TARAVAL","2017"],["TARAVAL","2018"],["TARAVAL","2019"],["TARAVAL","2020"],["TARAVAL","2021"],["TARAVAL","2022"],["TARAVAL","2023"],["SOUTHERN","2016"],["SOUTHERN","2017"],["SOUTHERN","2018"],["SOUTHERN","2019"],["SOUTHERN","2020"],["SOUTHERN","2021"],["SOUTHERN","2022"],["SOUTHERN","2023"],["BAYVIEW","2016"],["BAYVIEW","2017"],["BAYVIEW","2018"],["BAYVIEW","2019"],["BAYVIEW","2020"],["BAYVIEW","2021"],["BAYVIEW","2022"],["BAYVIEW","2023"]]},"selected":{"id":"1868"},"selection_policy":{"id":"1867"}},"id":"1833","type":"ColumnDataSource"},{"attributes":{},"id":"1846","type":"CategoricalTicker"},{"attributes":{"coordinates":null,"data_source":{"id":"1833"},"glyph":{"id":"1855"},"group":null,"hover_glyph":null,"muted_glyph":{"id":"1857"},"nonselection_glyph":{"id":"1856"},"view":{"id":"1859"}},"id":"1858","type":"GlyphRenderer"},{"attributes":{"start":0},"id":"1839","type":"DataRange1d"},{"attributes":{},"id":"1865","type":"CategoricalTickFormatter"},{"attributes":{"below":[{"id":"1845"}],"center":[{"id":"1847"},{"id":"1851"}],"left":[{"id":"1848"}],"renderers":[{"id":"1858"}],"title":{"id":"1836"},"toolbar":{"id":"1852"},"toolbar_location":null,"width":1500,"x_range":{"id":"1834"},"x_scale":{"id":"1841"},"y_range":{"id":"1839"},"y_scale":{"id":"1843"}},"id":"1835","subtype":"Figure","type":"Plot"},{"attributes":{"align":"center","coordinates":null,"group":null,"text":"Police District Incident Counts by Year in San Francisco"},"id":"1836","type":"Title"},{"attributes":{},"id":"1868","type":"Selection"},{"attributes":{"axis":{"id":"1845"},"coordinates":null,"grid_line_color":null,"group":null,"ticker":null},"id":"1847","type":"Grid"},{"attributes":{"source":{"id":"1833"}},"id":"1859","type":"CDSView"},{"attributes":{"axis_label":"Incident Counts","coordinates":null,"formatter":{"id":"1862"},"group":null,"major_label_policy":{"id":"1863"},"ticker":{"id":"1849"}},"id":"1848","type":"LinearAxis"},{"attributes":{"factors":[["TENDERLOIN","2016"],["TENDERLOIN","2017"],["TENDERLOIN","2018"],["TENDERLOIN","2019"],["TENDERLOIN","2020"],["TENDERLOIN","2021"],["TENDERLOIN","2022"],["TENDERLOIN","2023"],["PARK","2016"],["PARK","2017"],["PARK","2018"],["PARK","2019"],["PARK","2020"],["PARK","2021"],["PARK","2022"],["PARK","2023"],["MISSION","2016"],["MISSION","2017"],["MISSION","2018"],["MISSION","2019"],["MISSION","2020"],["MISSION","2021"],["MISSION","2022"],["MISSION","2023"],["RICHMOND","2016"],["RICHMOND","2017"],["RICHMOND","2018"],["RICHMOND","2019"],["RICHMOND","2020"],["RICHMOND","2021"],["RICHMOND","2022"],["RICHMOND","2023"],["CENTRAL","2016"],["CENTRAL","2017"],["CENTRAL","2018"],["CENTRAL","2019"],["CENTRAL","2020"],["CENTRAL","2021"],["CENTRAL","2022"],["CENTRAL","2023"],["NORTHERN","2016"],["NORTHERN","2017"],["NORTHERN","2018"],["NORTHERN","2019"],["NORTHERN","2020"],["NORTHERN","2021"],["NORTHERN","2022"],["NORTHERN","2023"],["INGLESIDE","2016"],["INGLESIDE","2017"],["INGLESIDE","2018"],["INGLESIDE","2019"],["INGLESIDE","2020"],["INGLESIDE","2021"],["INGLESIDE","2022"],["INGLESIDE","2023"],["TARAVAL","2016"],["TARAVAL","2017"],["TARAVAL","2018"],["TARAVAL","2019"],["TARAVAL","2020"],["TARAVAL","2021"],["TARAVAL","2022"],["TARAVAL","2023"],["SOUTHERN","2016"],["SOUTHERN","2017"],["SOUTHERN","2018"],["SOUTHERN","2019"],["SOUTHERN","2020"],["SOUTHERN","2021"],["SOUTHERN","2022"],["SOUTHERN","2023"],["BAYVIEW","2016"],["BAYVIEW","2017"],["BAYVIEW","2018"],["BAYVIEW","2019"],["BAYVIEW","2020"],["BAYVIEW","2021"],["BAYVIEW","2022"],["BAYVIEW","2023"]],"range_padding":0.1},"id":"1834","type":"FactorRange"},{"attributes":{},"id":"1867","type":"UnionRenderers"},{"attributes":{},"id":"1863","type":"AllLabels"},{"attributes":{"axis":{"id":"1848"},"coordinates":null,"dimension":1,"group":null,"ticker":null},"id":"1851","type":"Grid"}],"root_ids":["1835"]},"title":"Bokeh Application","version":"2.4.1"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            const fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  const docs_json = document.getElementById('2086').textContent;
+                  const render_items = [{"docid":"6f70b7c6-e47e-4f07-baa5-6aab1013415e","root_ids":["1835"],"roots":{"1835":"12a98249-40ad-4cd7-9985-bd11cb247f52"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    let attempts = 0;
+                    const timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
